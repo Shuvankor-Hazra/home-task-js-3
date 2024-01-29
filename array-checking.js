@@ -6,6 +6,8 @@ let isDog = false;
 let fruits = ["Mango", "Pineapple", "Orange", "Black barry", "Banana"];
 let animals = ["Cow", "Dog", "Cat", "Goat", "Rabbit"];
 
+// Print a message to the console indicating whether each variable is an array or not.
+
 console.log(Array.isArray(myAge));
 console.log(Array.isArray(myName));
 console.log(Array.isArray(isDog));
